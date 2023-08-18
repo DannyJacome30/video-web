@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript de Platzi.",
   "license": "MIT",
-  "author": "Richard B. Kaufman López <richardbkaufman@gmail.com>",
+  "author": "Daniela Jacome",
   "keywords": [
     "platzi"
   ],
@@ -11,6 +11,7 @@
     "start": "live-server"
   },
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "live-serve": "^0.0.0",
+    "live-server": "^1.1.0"
   }
 }
